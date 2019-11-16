@@ -4,7 +4,8 @@
 - FireBase Login
 - and more!
 
-![alt Text](https://github.com/DavidPesqueira/DavidPesqueira.github.io/blob/master/App.png)
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ```
 def teamInfo(id): #Team Record
 
