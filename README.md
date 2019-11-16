@@ -1,8 +1,11 @@
-#GitHub Pages
-- is 
-- this
-- a 
-- list
+
+- Python GUI using Tkinter
+- NHL Team Stats
+- FireBase Login
+- and more!
+
+![Alt text](https://github.com/DavidPesqueira/hockeypy/blob/master/hockey.png)
+
 ```
 def teamInfo(id): #Team Record
 
@@ -20,3 +23,4 @@ def teamInfo(id): #Team Record
 
     label['text']= "Points", teamPoints, "GP", gamesPlayed, "W's", wins, "L's", losses 
 ```
+
