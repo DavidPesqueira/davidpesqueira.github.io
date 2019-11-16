@@ -4,8 +4,7 @@
 - FireBase Login
 - and more!
 
-
-Format: ![Alt Text](https://github.com/DavidPesqueira/DavidPesqueira.github.io/blob/master/App.png)
+![alt Text](https://github.com/DavidPesqueira/DavidPesqueira.github.io/blob/master/App.png)
 ```
 def teamInfo(id): #Team Record
 
