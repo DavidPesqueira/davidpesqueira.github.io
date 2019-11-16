@@ -4,7 +4,7 @@
 - FireBase Login
 - and more!
 
-![alt text](https://github.com/DavidPesqueira/hockeypy/blob/master/hockey.png)
+![alt text](https://github.com/DavidPesqueira/DavidPesqueira.github.io/blob/master/App.png)
 
 ```
 def teamInfo(id): #Team Record
