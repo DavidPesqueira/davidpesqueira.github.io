@@ -23,4 +23,4 @@ def teamInfo(id): #Team Record
     label['text']= "Points", teamPoints, "GP", gamesPlayed, "W's", wins, "L's", losses 
 ```
 ![alt text](https://github.com/DavidPesqueira.github.io/blob/master/newlogin.png)
-![image](https://octodex.github.com/images/yaktocat.png)
+![image](newlogin.png)
