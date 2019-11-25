@@ -1,10 +1,8 @@
 
 - Python GUI using Tkinter
 - NHL Team Stats
-- FireBase Login
-- and more!
-![alt text](https://github.com/DavidPesqueira/DavidPesqueira.github.io/blob/master/newlogin.png)
-![alt text](https://github.com/DavidPesqueira/DavidPesqueira.github.io/blob/master/App.png)
+
+
 
 ```
 def teamInfo(id): #Team Record
