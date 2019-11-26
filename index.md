@@ -1,8 +1,14 @@
 
 - Python GUI using Tkinter
-- NHL Team Stats
-- FireBase Login
-- and more!
+- NHL API Access
+- Tkinter Firebase Login/Register
+
+![video](https://youtu.be/sLUrJUBy4hY "Initial Code Review")
+I started with a weather app using tkinter that I had made a little while back and chose this as an artifact to use that I can enhance by using methods I have learned while enrolled in my Computer Science program at Southern New Hampshire University. Tkinter has great documentation but I did not see any other project that had a Firebase Login system where the database for users would be stored there, instead of hardcoding passwords or storing them in a file. 
+
+
+
+
 
 
 ```
