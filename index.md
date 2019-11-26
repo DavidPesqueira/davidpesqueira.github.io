@@ -19,7 +19,7 @@ This is the design code for the login screen
 Using the .geometry feature I can control the window sizes and 
 where they open. 
 
-'''
+```
 canvasLogin = tk.Canvas(top)
 canvasLogin.pack()
 top.geometry('600x400+650+200')
@@ -38,7 +38,7 @@ backround_label = tk.Label(root, image=background_image)
 backround_label.place(relwidth=1, relheight=1)
 frame = tk.Frame(root, bg='white', bd=5)
 frame.place(relx=0.5, rely=0.1,relwidth=0.75, relheight=0.1, anchor='n')
-'''
+```
 
 
 Adding Data Structures and Algorithm
@@ -46,7 +46,9 @@ Adding Data Structures and Algorithm
 The BST is used to insert and remove as an Easter Egg for those who use the CLI to run the python file
 
 For insterting...
-'''
+
+
+```
 class node(object):
     def __init__(self, data):
         self.data=data
@@ -64,22 +66,24 @@ class node(object):
                 self.rightchild=node(data)
             else:
                 self.rightchild.insert(data)
-'''
+```
 
 
 And an example...
 
-'''
+
+
+```
 def teamcups():
   
     cups = input("See all teams cup count by typing 'Cups'! or Only the winners by typing 'Winners'!\n")
     if cups == "Cups":            
         bst.insert("Montréal Canadiens      24 Cups Holy COW!") 
-'''
+```
 
 For Firebase login...
 
-'''
+```
 import pyrebase
 from flask import *
 import requests
@@ -99,10 +103,10 @@ config = {
 }
 Firebase = pyrebase.initialize_app(config)
 auth = Firebase.auth()
-'''
+```
 
 
-'''
+```
 def user_login():
     
     try:
@@ -140,4 +144,4 @@ def exitProgram():
     root.destroy()
     #teamcups.teamcups()
     sys.exit()
-'''
+```
