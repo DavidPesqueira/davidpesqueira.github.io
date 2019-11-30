@@ -14,6 +14,7 @@ https://github.com/DavidPesqueira/hockeypy
 
 
 ![image](newlogin.png)
+![image](showrecord.png)
 
 This is the design code for the login screen
 Using the .geometry feature I can control the window sizes and 
