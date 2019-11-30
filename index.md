@@ -49,6 +49,8 @@ The BST is used to insert and remove as an Easter Egg for those who use the CLI 
 For insterting...
 
 
+![image](bst1.png)
+
 ```
 class node(object):
     def __init__(self, data):
@@ -81,6 +83,10 @@ def teamcups():
     if cups == "Cups":            
         bst.insert("Montréal Canadiens      24 Cups Holy COW!") 
 ```
+Also for removing.
+
+![image](bst2.png)
+
 
 For Firebase login...
 
