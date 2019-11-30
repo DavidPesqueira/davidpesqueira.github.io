@@ -12,7 +12,7 @@ The project can be found here
 https://github.com/DavidPesqueira/hockeypy
 
 
-Adding Style
+
 ![image](newlogin.png)
 
 This is the design code for the login screen
@@ -104,7 +104,7 @@ config = {
 Firebase = pyrebase.initialize_app(config)
 auth = Firebase.auth()
 ```
-
+![image](register.png)
 
 ```
 def user_login():
@@ -145,3 +145,4 @@ def exitProgram():
     #teamcups.teamcups()
     sys.exit()
 ```
+![image](userdatabase.png)
