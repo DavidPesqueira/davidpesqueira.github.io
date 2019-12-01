@@ -1,3 +1,13 @@
+Throughout my computer science program at SNHU I have taken courses ranging from Calculus to Applied Linear Algebra, Introduction to Information Technology from a business standpoint to reverse software engineering using machine and assembly language in C. I have collaborated with fellow students in a Version Control class using Git, as well as collaborated with other students on coding challenges as Event Coordinator for the ACM SNHU Chapter while I was there. 
+
+On my GitHub page you will see some of the projects of have created such as my personal website, an android application, data structures and algorithms in C++  and more. 
+
+The classes I have done exceptionally well in are ones where teamwork is involved and discussions are encouraged such as Version Control and Data Structures and Algorithms in C++.  
+
+As someone who wants to learn more about security and showcase Python for the powerful language that it is. I chose to do my capstone project in Python.
+
+My final capstone project is displayed below with a link to the GitHub repository. I made a GUI using the python tkinter module. Within this GUI python application I created Software/ Design, incorporated Data Structures and Algorithm (BST) as well as a database (Firebase) to hold user registration. 
+
 
 - Python GUI using Tkinter
 - NHL API Access
@@ -153,3 +163,26 @@ def exitProgram():
     sys.exit()
 ```
 ![image](userdatabase.png)
+
+
+Other Projects I have finished during my journey as a computer science major are:
+My Website
+
+[![website](http://img.youtube.com/vi/N4ob0H9b3RM/0.jpg)](http://www.youtube.com/watch?v=N4ob0H9b3RM "website")
+
+
+My Mobile App
+
+![image](adroid.JPG)
+
+https://github.com/DavidPesqueira/CoffeeShop
+
+And my LED Cube
+
+[![Led Cube](http://img.youtube.com/vi/oVW8duxr60Q/0.jpg)](http://www.youtube.com/watch?v=oVW8duxr60Q "LED Cube")
+
+https://github.com/DavidPesqueira/LEDCUBE
+
+
+
+
