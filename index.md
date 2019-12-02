@@ -171,6 +171,8 @@ def exitProgram():
 ![image](userdatabase.png)
 
 ---
+# Other Projects
+---
 # My Website
 
 [![website](http://img.youtube.com/vi/N4ob0H9b3RM/0.jpg)](http://www.youtube.com/watch?v=N4ob0H9b3RM)
