@@ -1,24 +1,20 @@
 
-- Python GUI using Tkinter
-- NHL Team Stats
+# Python GUI using Tkinter
+# NHL Team Stats
 
+# Users can Register/Login from the main screen. Or Exit.
+![alt text](login2.png "Login Screen")
 
+# Users are validated using the Firebase API
+![alt text](newuseronfirebase.png "Firebase")
 
-```
-def teamInfo(id): #Team Record
+# Users taken to the login screen 
+![alt text](onceregistered1.png "All logged in!")
 
-    teamName = entry.get()
-    teamId=name_id_map[teamName]
-    url = 'https://statsapi.web.nhl.com/api/v1/teams/' + teamId + "?expand=team.stats" #Grabbing from the NHL API
-    response = requests.get(url)    
-    packages_json = response.json()
-    packages_str = json.dumps(packages_json, indent=2, sort_keys=True)
+# Find your teams Points and record using the NHL API
+![alt text](teaminfo.png "Go Ducks...")
 
-    gamesPlayed=(json.loads(packages_str)['teams'][0]['teamStats'][0]['splits'][0]['stat']['gamesPlayed'])
-    teamPoints =(json.loads(packages_str)['teams'][0]['teamStats'][0]['splits'][0]['stat']['pts'])
-    wins =(json.loads(packages_str)['teams'][0]['teamStats'][0]['splits'][0]['stat']['wins'])
-    losses =(json.loads(packages_str)['teams'][0]['teamStats'][0]['splits'][0]['stat']['losses'])
+# Last place button of shame. Oh Red wings...
+![alt text](lastplacebuttonofshame.png "Oof")
 
-    label['text']= "Points", teamPoints, "GP", gamesPlayed, "W's", wins, "L's", losses 
-```
-
+# Logout and your done! You can log back in whenever.
