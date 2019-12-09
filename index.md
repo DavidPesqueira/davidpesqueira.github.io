@@ -58,11 +58,7 @@ frame.place(relx=0.5, rely=0.1,relwidth=0.75, relheight=0.1, anchor='n')
 ```
 
 ## The use of Data Structures and the Binary Search Tree Algorithim 
-Adding Data Structures and Algorithm
-
-The BST is used to insert and remove as an Easter Egg for those who use the CLI to run the python file
-
-For insterting...
+I decided to use a Binary Search Tree to handle my “Easter egg” hidden in the software. When a user exits the program, the output will give the user an option to display all cups one by each team, or only show the winners. 
 
 
 ![image](bst1.png)
@@ -103,8 +99,14 @@ Also for removing.
 
 ![image](bst2.png)
 
+My BST has both the ability to insert and remove data accordingly. This increases the complexity of the code while also gives the user an unexpected function of the program. Something I have always enjoyed in movies, music and games.
+
 ## Database/Firebase
 
+Working with Firebase wasn’t the hardest thing about using them to control my user database. It was getting Tkinter to work with it. I knew the code to register in Java, where I have used this before working on an android application, but, that’s almost simpler in my opinion when it comes to GUI programming. Java will sometimes connect the dots for you. Tkinter will not necessarily do that. 
+I can delete, and change the user’s password, but I can not view what they have entered, as it is encrypted. 
+
+There are other methods I could use as well in this program such as, when a user registers, they must confirm their email or give them the ability to change their password as well. I felt that for this project that that wouldn’t be necessary. I would recommend this as something to do after all testing is completed on other projects where security might be more of a concern. 
 
 
 ```
