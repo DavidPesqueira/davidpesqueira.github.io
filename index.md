@@ -1,12 +1,10 @@
-# Introduction
-Throughout my computer science program at SNHU I have taken courses ranging from Calculus to Applied Linear Algebra, Introduction to Information Technology from a business standpoint to reverse software engineering using machine and assembly language in C. I have collaborated with fellow students in a Version Control class using Git, as well as collaborated with other students on coding challenges as Event Coordinator for the ACM SNHU Chapter while I was there.
+# Professional Self-Assessment
+Throughout my computer science program at SNHU I have taken courses ranging from Pre-Calculus to Applied Linear Algebra, Introduction to Information Technology from a business standpoint to reverse software engineering using machine and assembly language in C. I have collaborated with fellow students in a Version Control class using Git, as well as collaborated with other students/faculty on events such coding challenges/trivia while I was serving as Event Coordinator for the ACM SNHU Chapter.
 
-On my GitHub page you will see some of the projects of have created such as my personal website, an android application, data structures and algorithms in C++ and more.
-The classes I have done exceptionally well in are ones where teamwork is involved, and discussions are encouraged such as Version Control and Data Structures and Algorithms in C++.
+I have studied and enjoyed every class I took during my computer science program. None of it was particularly easy, all of it was challenging in a satisfying way. Working with professors, tutors, and fellow students have all helped me get to where I am today when it comes to understanding how operating systems work, creating flow-charts for larger scale software projects, writing pseudo-code and sharing ideas. 
 
-As someone who wants to learn more about security and showcase Python for the powerful language that it is. I chose to do my capstone project in Python.
-
-My final capstone project is displayed below with a link to the GitHub repository. I made a GUI using the python tkinter module. Within this GUI python application, I created Software/ Design, incorporated Data Structures and Algorithm (BST) as well as a database (Firebase) to hold user registration. 
+When I began this project, what I had was little knowledge of GUI programming in the Python language. Python itself is a powerful object-oriented language that is growing in popularity for multiple reasons. One reason, being its perceived simplicity. This however isn’t always the case when you are working with some tools that are not documented very well for what you are intending to do. I was able to use problem solving and skills that I gained while attending SHNU to finish the task that I wanted to complete. Within this GUI python application, I created Software/ Design, incorporated Data Structures and Algorithm (BST) as well as a database (Firebase) to hold user registration.
+ 
 
 
 ***
