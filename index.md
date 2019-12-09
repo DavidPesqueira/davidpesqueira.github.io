@@ -1,14 +1,14 @@
 # Introduction
+Throughout my computer science program at SNHU I have taken courses ranging from Calculus to Applied Linear Algebra, Introduction to Information Technology from a business standpoint to reverse software engineering using machine and assembly language in C. I have collaborated with fellow students in a Version Control class using Git, as well as collaborated with other students on coding challenges as Event Coordinator for the ACM SNHU Chapter while I was there.
 
-Throughout my computer science program at SNHU I have taken courses ranging from Calculus to Applied Linear Algebra, Introduction to Information Technology from a business standpoint to reverse software engineering using machine and assembly language in C. I have collaborated with fellow students in a Version Control class using Git, as well as collaborated with other students on coding challenges as Event Coordinator for the ACM SNHU Chapter while I was there. 
-
-On my GitHub page you will see some of the projects of have created such as my personal website, an android application, data structures and algorithms in C++  and more. 
-
-The classes I have done exceptionally well in are ones where teamwork is involved and discussions are encouraged such as Version Control and Data Structures and Algorithms in C++.  
+On my GitHub page you will see some of the projects of have created such as my personal website, an android application, data structures and algorithms in C++ and more.
+The classes I have done exceptionally well in are ones where teamwork is involved, and discussions are encouraged such as Version Control and Data Structures and Algorithms in C++.
 
 As someone who wants to learn more about security and showcase Python for the powerful language that it is. I chose to do my capstone project in Python.
 
-My final capstone project is displayed below with a link to the GitHub repository. I made a GUI using the python tkinter module. Within this GUI python application I created Software/ Design, incorporated Data Structures and Algorithm (BST) as well as a database (Firebase) to hold user registration. 
+My final capstone project is displayed below with a link to the GitHub repository. I made a GUI using the python tkinter module. Within this GUI python application, I created Software/ Design, incorporated Data Structures and Algorithm (BST) as well as a database (Firebase) to hold user registration. 
+
+
 ***
 # Capstone Project
 
@@ -31,6 +31,8 @@ The project can be found here
 
 ![image](newlogin.png)
 ![image](showrecord.png)
+
+## Login Screen
 
 This is the design code for the login screen
 Using the .geometry feature I can control the window sizes and 
@@ -57,7 +59,7 @@ frame = tk.Frame(root, bg='white', bd=5)
 frame.place(relx=0.5, rely=0.1,relwidth=0.75, relheight=0.1, anchor='n')
 ```
 
-
+## The use of Data Structures and the Binary Search Tree Algorithim 
 Adding Data Structures and Algorithm
 
 The BST is used to insert and remove as an Easter Egg for those who use the CLI to run the python file
@@ -103,8 +105,9 @@ Also for removing.
 
 ![image](bst2.png)
 
+## Database/Firebase
 
-For Firebase login...
+
 
 ```
 import pyrebase
