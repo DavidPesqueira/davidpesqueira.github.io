@@ -5,7 +5,7 @@
 ### Users can Register/Login from the main screen. Or Exit.
 ![alt text](login2.png "Login Screen")
 
-###H2 Users are validated using the Firebase API
+### Users are validated using the Firebase API
 ![alt text](newuseronfirebase.png "Firebase")
 
 ### Users taken to the login screen. 
