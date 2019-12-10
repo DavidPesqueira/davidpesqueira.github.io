@@ -63,6 +63,7 @@ I decided to use a Binary Search Tree to handle my “Easter egg” hidden in th
 
 ![image](bst1.png)
 
+***
 ```
 class node(object):
     def __init__(self, data):
@@ -82,24 +83,66 @@ class node(object):
             else:
                 self.rightchild.insert(data)
 ```
-
+***
+***
+```
+from node import node
+class BST(object):
+    def __init__(self):
+        self.rootnode=None
+        
+    def insert(self,data):
+        if not self.rootnode:
+            self.rootnode=node(data)
+        else:
+            self.rootnode.insert(data)
+            
+    def getmin(self):
+        if self.rootnode:
+            return self.rootnode.getmin()
+        
+    def getmax(self):
+        if self.rootnode:
+            return self.rootnode.getmax()
+        
+    def traverseinorder(self):
+        if self.rootnode:
+            return self.rootnode.traverseinorder()
+        
+    def remove(self, datatoremove):
+        if self.rootnode:
+            if self.rootnode==datatoremove:
+                tempnode= node(None)
+                tempnode.leftchild=self.rootnode
+                self.rootnode.remove(datatoremove, tempnode)
+            else:
+                self.rootnode.remove(datatoremove, None)
+```
+***
 
 And an example...
 
-
+***
 
 ```
+from bst import BST
+
+bst = BST()
 def teamcups():
   
     cups = input("See all teams cup count by typing 'Cups'! or Only the winners by typing 'Winners'!\n")
     if cups == "Cups":            
         bst.insert("Montréal Canadiens      24 Cups Holy COW!") 
 ```
+
+***
 Also for removing.
 
 ![image](bst2.png)
 
 My BST has both the ability to insert and remove data accordingly. This increases the complexity of the code while also gives the user an unexpected function of the program. Something I have always enjoyed in movies, music and games.
+
+The full code is found on my github page for both node and bst. 
 
 ## Database/Firebase
 
