@@ -140,6 +140,14 @@ Also for removing.
 
 ![image](bst2.png)
 
+Using ```__init__.py``` file to import the packages.
+```
+from hockeyapp import BST
+from node import Node
+from hockeyapp import teamcups
+
+```
+
 My BST has both the ability to insert and remove data accordingly. This increases the complexity of the code while also gives the user an unexpected function of the program. Something I have always enjoyed in movies, music and games.
 
 The full code is found on my github page for both node and bst. 
